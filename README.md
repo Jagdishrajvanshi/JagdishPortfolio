@@ -6,7 +6,7 @@ Welcome to my personal portfolio website.
 This project showcases my skills, projects, and achievements as a Full Stack Developer and Computer Engineering student.
 
 🌐 **Live Website:**  
-https://yourusername.github.io/portfolio/
+https://jagdishrajvanshi.github.io/JagdishPortfolio/
 
 ---
 
